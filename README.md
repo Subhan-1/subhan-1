@@ -3,9 +3,9 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<h2>Hey there <img src="https://github.com/MaxxRider/MaxxRider/blob/main/gifs/Hi.gif" width="30px"></h2>
+<h2>Hey there <img src="https://github.com/subhan-1/subhan-1/blob/main/gifs/Hi.gif" width="30px"></h2>
           
-           🔴  I AM SUBHAN 🔴
+            🔴  I AM SUBHAN 🔴
 
             🔵TG- @SUBHAN011🔵
 
