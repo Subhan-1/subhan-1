@@ -1,10 +1,4 @@
-<div align="center">
-<img src="https://github.com/Subhan-1/subhan-1/blob/main/gifs/animated-welcome-image-0112.gif"</div>
-<img src="https://github.com/MaxxRider/MaxxRider/blob/main/gifs/cooltext403237630597766.gif"
-
-
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Variable+Axes&size=60&duration=3510&color=60DAF7&multiline=true&width=425&height=250&lines=Welcome+to;Subhan+profile+)](https://git.io/typing-svg)
 
 <h3 align="center">
   Welcome to subhan profile!
