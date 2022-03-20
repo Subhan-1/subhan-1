@@ -32,3 +32,5 @@
 </p>
 
 .
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=3354F7&height=1258&lines=Welcome+to+;My+profile+)](https://git.io/typing-svg)
