@@ -21,6 +21,3 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Variable+Axes&size=25&duration=3510&color=112DFF&multiline=true&width=425&height=180&lines=Hxhhdhsh+the+ater+kasmiri+2)](https://git.io/typing-svg)
-
-(https://readme-typing-svg.herokuapp.com?font=Variable+Axes&size=25&duration=3510&color=112DFF&multiline=true&width=425&height=180&lines=Hxhhdhsh+the+ater+kasmiri+2)](https://git.io/typing-svg)
