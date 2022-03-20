@@ -21,3 +21,4 @@
 </p>
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Variable+Axes&size=25&duration=3510&color=112DFF&multiline=true&width=425&height=180&lines=%E2%9E%A3+i+am+a+school+student;%E2%9E%A3+I'm+looking+to+collaborate+on+(Github))](https://git.io/typing-svg)
