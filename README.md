@@ -21,4 +21,4 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Variable+Axes&duration=3510&color=112DFF&multiline=true&width=425&height=180&lines=%E2%9E%A3+%F0%9D%91%B0+%F0%9D%92%82%F0%9D%92%8E+%F0%9D%92%82+%F0%9D%92%94%F0%9D%92%84%F0%9D%92%89%F0%9D%92%90%F0%9D%92%90%F0%9D%92%8D+%F0%9D%92%94%F0%9D%92%95%F0%9D%92%96%F0%9D%92%85%F0%9D%92%86%F0%9D%92%8F%F0%9D%92%95+%3A+(science+stu..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Variable+Axes&duration=3510&color=112DFF&multiline=true&width=425&height=180&lines=Hxhhdhsh+the+ater+kasmiri+2)](https://git.io/typing-svg)
