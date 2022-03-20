@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Variable+Axes&size=60&duration=3510&color=60DAF7&multiline=true&width=425&height=150&lines=Welcome+to;Subhan+profile+)](https://git.io/typing-svg)
 
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
 <h2>Hey there <img src="https://github.com/subhan-1/subhan-1/blob/main/gifs/Hi.gif" width="30px"></h2>
           
             🔴  I AM SUBHAN 🔴
