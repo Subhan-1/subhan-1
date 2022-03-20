@@ -47,3 +47,4 @@
 
 
 [![Typing SVG](https://subhan0.herokuapp.com?size=25&color=2A217C&multiline=true&height=200&lines=Hoe+are+yoy;How+vexingly+quick+daft+zebras+jump;Quick+fox+jumps+nightly+above+wizard;Sphinx+of+black+quartz%2C+judge+my+vow)](https://git.io/typing-svg)
+[![Typing SVG](https://subhan0.herokuapp.com?size=25&color=2A217C&multiline=true&height=200&lines=Hoe+are+yoy)](https://git.io/typing-svg)
