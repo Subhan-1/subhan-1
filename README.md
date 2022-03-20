@@ -1,3 +1,11 @@
+<div align="center">
+<img src="https://github.com/MaxxRider/MaxxRider/blob/main/gifs/welcome.gif"</div>
+<img src="https://github.com/MaxxRider/MaxxRider/blob/main/gifs/cooltext403237630597766.gif"
+
+
+
+
+
 <h3 align="center">
   Welcome to subhan profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
