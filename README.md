@@ -18,7 +18,3 @@
   <a href="https://github.com/subhan-1/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/subhan-1-profile-views"/></a>
 </p>
-
-.
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=60&color=3354F7&lines=Welcome+to+;My+profile+)](https://git.io/typing-svg)
