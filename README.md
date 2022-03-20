@@ -3,7 +3,12 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-## About me
+<h2>Hey there <img src="https://github.com/MaxxRider/MaxxRider/blob/main/gifs/Hi.gif" width="30px"></h2>
+          
+           🔴  I AM SUBHAN 🔴
+
+            🔵TG- @SUBHAN011🔵
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Variable+Axes&size=25&duration=3510&color=112DFF&multiline=true&width=425&height=309&lines=%E2%9E%A3+i+am+a+school+student;%E2%9E%A3+I'm+looking+to+collaborate+on+(Github);++++++++++++++++++++++On+(Github);%E2%9E%A3+Looking+for+a+trusted+;person+%F0%9F%A4%97;%E2%9E%A3+Asked+Me+About+;(+t.me%2Fsubhan011+);%E2%9E%A3+Language+%3A+Hindi%2C+English;%E2%9E%A3Fun+Fact%3A+I+love+to+watch+;Movies+%F0%9F%98%84%F0%9F%A4%A9%F0%9F%A4%A9)](https://git.io/typing-svg)
 
 
