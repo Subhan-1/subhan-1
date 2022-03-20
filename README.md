@@ -22,7 +22,7 @@
   <a href="https://github.com/subhan-1/Simple-View-Counter">    
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxxrider&label=Profile%20views&color=0e75b6&style=flat" alt="maxxrider" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhan-1&label=Profile%20views&color=0e75b6&style=flat" alt="subhan-1" /> </p>
 
 - 🔭 I’m currently working on [Telegram Bots](https://t.me/MaxxBots)
 
