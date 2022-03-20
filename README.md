@@ -24,17 +24,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhan-1&label=Profile%20views&color=0e75b6&style=flat" alt="subhan-1" /> </p>
 
-- 🔭 I’m currently working on [Telegram Bots](https://t.me/MaxxBots)
-
-- 🌱 I’m currently learning **Python, PHP**
+- 🔭 I’m currently working on [Telegram Bots](https://t.me/kd_botz)
 
 - 👯 I’m looking to collaborate on **GitHub**
 
 - 🤝 I’m looking for help with **Making TG Bots for Education Purpose**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MaxxBots](https://github.com/MaxxBots)
+- 👨‍💻 All of my projects are available at [https://github.com/subhan-1](https://github.com/subhan-1)
 
-- 📝 I regularly active on [https://telegram.dog/MaxxBotChat](https://telegram.dog/MaxxBotChat)
+- 📝 I regularly active on [https://telegram.dog/subhan011](https://telegram.dog/subha011)
 
 - 💬 Ask me about **👲😁😁😁**
 
