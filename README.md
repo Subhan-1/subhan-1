@@ -36,7 +36,7 @@
 
 - 💬 Ask me about **👲😁😁😁**
 
-- 📫 How to reach me **https://Telegram.dog/MaxxRiderz**
+- 📫 How to reach me **https://Telegram.dog/subhan011**
 
 
 
