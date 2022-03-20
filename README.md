@@ -33,3 +33,4 @@
 
 .
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=60&color=3354F7&lines=Welcome+to+;My+profile+)](https://git.io/typing-svg)
