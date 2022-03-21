@@ -45,6 +45,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhan-1&show_icons=true&locale=en" alt="subhan-1" /></p>
 
-![subhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhan-1&show_icons=true&include_all_commits=true&theme=vue-dark)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhan-1&exclude_repo=swype-patch&theme=vue-dark&layout=compact)  
+![subhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhan-1&show_icons=true&include_all_commits=true&theme=vue-white)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhan-1&exclude_repo=swype-patch&theme=vue-white&layout=compact)  
 
