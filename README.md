@@ -32,7 +32,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/subhan-1](https://github.com/subhan-1)
 
-- 📝 I regularly active on [https://telegram.dog/subhan011](https://telegram.dog/subha011)
+- 📝 I regularly active on [https://telegram.dog/subhan011](https://telegram.dog/subhan011)
 
 - 💬 Ask me about **👲😁😁😁**
 
