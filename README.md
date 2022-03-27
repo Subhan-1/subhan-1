@@ -1,14 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Variable+Axes&size=60&duration=3510&color=60DAF7&multiline=true&width=425&height=150&lines=Welcome+to;Subhan+profile+)](https://git.io/typing-svg)
-
 <h2>Hey there <img src="https://github.com/subhan-1/subhan-1/blob/main/gifs/Hi.gif" width="30px"></h2>
           
-            🔴  I AM SUBHAN 🔴
-
-            🔵TG- @SUBHAN011🔵
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Variable+Axes&size=25&duration=3510&color=112DFF&multiline=true&width=425&height=309&lines=%E2%9E%A3+i+am+a+school+student;%E2%9E%A3+I'm+looking+to+collaborate+on+(Github);++++++++++++++++++++++On+(Github);%E2%9E%A3+Looking+for+a+trusted+;person+%F0%9F%A4%97;%E2%9E%A3+Asked+Me+About+;(+t.me%2Fsubhan011+);%E2%9E%A3+Language+%3A+Hindi%2C+English;%E2%9E%A3Fun+Fact%3A+I+love+to+watch+;Movies+%F0%9F%98%84%F0%9F%A4%A9%F0%9F%A4%A9)](https://git.io/typing-svg)
-
-
+          
 
 <!-- View counter - https://github.com/subhan-1/Simple-View-Counter -->
 <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
@@ -21,22 +13,6 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/subhan-1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/subhan-1/Simple-View-Counter">    
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhan-1&label=Profile%20views&color=0e75b6&style=flat" alt="subhan-1" /> </p>
-
-- 🔭 I’m currently working on [Telegram Bots](https://t.me/kd_botz)
-
-- 👯 I’m looking to collaborate on **GitHub**
-
-- 🤝 I’m looking for help with **Making TG Bots for Education Purpose**
-
-- 👨‍💻 All of my projects are available at [https://github.com/subhan-1](https://github.com/subhan-1)
-
-- 📝 I regularly active on [https://telegram.dog/subhan011](https://telegram.dog/subhan011)
-
-- 💬 Ask me about **👲😁😁😁**
-
-- 📫 How to reach me **https://Telegram.dog/subhan011**
 
 
 
