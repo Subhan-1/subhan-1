@@ -1,5 +1,5 @@
 
-| 👋 Hi, I’m @Subhan-1                    
+| 👋 Hi, I’m SUBHAN                    
 |----
 
 | 🌱 I’m currently learning everything.   
